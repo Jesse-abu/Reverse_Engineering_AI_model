@@ -1,0 +1,26 @@
+{
+    "everyday_electronics": {
+        "personal": ["Smartphone", "Laptop", "Smartwatch", "Wireless Earbuds", "Tablet"],
+        "entertainment": ["Smart TV", "Gaming Console", "Bluetooth Speaker", "Streaming Stick", "Soundbar"],
+        "appliances": ["Microwave", "Refrigerator", "Washing Machine", "Air Conditioner", "Coffee Maker"]
+    },
+    "around_the_house": {
+        "living_room": ["Sofa", "Coffee Table", "Bookshelf", "Area Rug", "Floor Lamp"],
+        "kitchen": ["Cookware Set", "Cutlery", "Cutting Board", "Toaster", "Blender"],
+        "bedroom": ["Mattress", "Dresser", "Nightstand", "Duvet", "Wardrobe"],
+        "cleaning": ["Vacuum Cleaner", "Mop", "Broom", "Laundry Basket", "Steam Cleaner"]
+    },
+    "garage_and_tools": {
+        "hand_tools": ["Hammer", "Screwdriver Set", "Wrench", "Pliers", "Socket Set"],
+        "power_tools": ["Cordless Drill", "Circular Saw", "Angle Grinder", "Orbital Sander", "Impact Driver"],
+        "maintenance": ["Floor Jack", "Jack Stands", "Air Compressor", "Oil Drain Pan", "Jumper Cables"]
+    },
+    "survival_essentials": {
+    "Hydration": ["Stainless steel water bottle","Portable water filter (LifeStraw/Sawyer)","Water purification tablets","Metal pot for boiling"],
+    "Shelter_and_Warmth": ["Emergency space blanket","Lightweight tarp or bivy sack","Wool socks and moisture-wicking layers","Closed-cell foam sleeping pad"],
+    "Fire_and_Light": ["Ferrocerium rod","Waterproof lighter","LED headlamp with extra batteries","Petroleum-soaked cotton balls (tinder)"],
+    "Tools_and_Navigation": ["Fixed-blade survival knife","550 Paracord (50 feet)","Physical topographic map","Lensatic compass"],
+    "Medical_and_Health": ["First aid kit (bandages, antiseptic)","Tourniquet","Personal prescription medications","Hand sanitizer"],
+    "Nutrition": ["High-calorie energy bars","Trail mix or jerky","Emergency fishing kit"]
+    }
+}

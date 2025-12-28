@@ -1,0 +1,17 @@
+Part,Function,Location/Notes
+Antenna,Receives and transmits radio signals for network communication,Inbuilt in the phone's cabinet
+Battery,Provides power supply to all components,Typically removable or internally fixed
+CPU (Central Processing Unit),The "brain" of the phone; controls all functions and processes data,Located on the motherboard (PCB)
+RAM (Random Access Memory),Provides temporary data storage for running applications,Located on the motherboard (PCB)
+Storage (Flash Memory/ROM/EEPROM),Provides permanent storage for the operating system and user data, Located on the motherboard (PCB)
+Display (LCD/OLED),Generates visuals and provides the user interface,The main screen of the phone
+Microphone (Mic),Converts voice sound into electrical signals for transmission,Typically at the bottom of the phone
+Speaker (Earpiece),Converts electrical signals into sound for listening during calls,Typically at the top of the phone
+Ringer (Loudspeaker/Buzzer),Produces loud sounds for ringtones and music playback,Often located at the bottom or back of the phone
+Camera Module,Captures images and videos,Typically on the back and/or front of the phone
+SIM Card Socket,Holds the Subscriber Identity Module (SIM) card and acts as a reader,On the side or inside the phone
+Power IC (Integrated Circuit),Regulates and distributes power from the battery/charger to other components,On the motherboard (PCB)
+Charging IC,Manages the charging process of the battery,On the motherboard (PCB)
+Vibrator Motor,Provides haptic feedback/vibration alerts,Internal component
+Sensors,Collects data on motion orientation, and environment to enable features Internal components on the motherboard
+USB Connector,Used for charging the device and data transfer,Typically at the bottom of the phone

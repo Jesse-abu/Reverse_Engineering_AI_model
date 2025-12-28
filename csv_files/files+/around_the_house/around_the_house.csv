@@ -1,0 +1,21 @@
+Room,Item,Basic Function,Possible Substitutes
+living_room,Sofa,Seating multiple people comfortably,Loveseat; Sectional sofa; Futon; Beanbags; Armchairs
+living_room,Coffee Table,Surface for drinks, remote controls, or decor near seating,Ottoman with tray; Side table; Large storage trunk; Nesting tables
+living_room,Bookshelf,Storage and display for books and various items,Floating shelves; Cabinet with doors; Storage cubes; Crate storage system
+living_room,Area Rug,Adds warmth, texture, and defines a space on the floor,Carpet tiles; Larger wall-to-wall carpet; Interlocking foam mats; Bare floor with decorative tiles
+living_room,Floor Lamp,Provides ambient or task lighting for a specific area,Table lamp; Overhead lighting fixture; Sconce lighting; Track lighting
+kitchen,Cookware Set,Used for cooking food on a stovetop or in an oven (pots, pans),Dutch oven; Casserole dish; Skillet/Frying pan; Instant Pot/Multi-cooker
+kitchen,Cutlery,Utensils used for eating and preparing food,Chopsticks; Disposable plastic cutlery; Reusable plastic picnic set; Spork set
+kitchen,Cutting Board,A protective surface for cutting and chopping food items,Silicone cutting mat; A clean, thick plate; A dedicated smooth counter section
+kitchen,Toaster,Toasts bread products quickly using radiant heat,Oven/Toaster oven; Broiler in a standard oven; Frying pan on stovetop; Grill/BBQ
+kitchen,Blender,Blends, purees, or crushes ingredients into liquid/semi-solid form,Food processor; Immersion blender (hand blender); Mortar and pestle; Shaker bottle
+bedroom,Mattress,Provides a supportive surface for sleeping,Futon mattress; Air mattress; Floor mat/Tatami mat; Hammock; Sleeping bag
+bedroom,Dresser,Storage for folded clothing and personal items with drawers,Chest of drawers; Wardrobe; Floating shelves with baskets; Under-bed storage containers
+bedroom,Nightstand,A small table/cabinet beside the bed for essentials (lamp, phone),Small side table; Floating shelf; Stool; Stack of books/crates
+bedroom,Duvet,A soft flat bag filled with feathers or synthetic material used as bedding/blanket,Quilt; Comforter; Blanket stack; Bedspread; Sheet and blanket combo
+bedroom,Wardrobe,A large standing cabinet used for hanging or storing clothing,Armoire; Open hanging rack; Closet system/organizer; Storage cubes; Garment rack
+cleaning,Vacuum Cleaner,Removes dust and debris from floors (carpeted or hard floors),Broom and dustpan; Dust mop; Manual carpet sweeper; Handheld vacuum (for small jobs)
+cleaning,Mop,Cleans hard floors using water and cleaning solution,Steam cleaner; Rag on a stick; Reusable microfiber cloth on a flat tool; Sponge
+cleaning,Broom,Sweeps debris from hard floors or outdoor surfaces,Vacuum cleaner; Dust mop; Leaf blower (outdoor use); Manual carpet sweeper
+cleaning,Laundry Basket,Holds dirty laundry waiting to be washed,Laundry bag; Plastic bin; Mesh hamper; Pillowcase (temporary); Large bucket
+cleaning,Steam Cleaner,Uses hot steam to clean and sanitize surfaces (floors, upholstery, etc.),Mop and bucket; Disinfecting wipes; Chemical cleaning sprays; Handheld steamer

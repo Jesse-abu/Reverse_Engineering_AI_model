@@ -1,0 +1,10 @@
+names:
+  0: smart phone
+  1: Laptop
+  2: Smartwatch
+  3: Tablet
+  4: Wireless Earbuds
+nc: 5
+path: data
+train: images/train
+val: images/val

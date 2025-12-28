@@ -1,0 +1,21 @@
+Gadget,Type,Component,Detailed Function,Primary Materials Used
+Microwave,Hardware,Magnetron,Generates electromagnetic waves to heat food,Copper; Iron; Ceramic magnets; Glass
+Microwave,Hardware,Waveguide,Directs microwaves into the cooking chamber,Aluminum; Galvanized Steel
+Microwave,Hardware,HV Transformer,Converts home voltage to high voltage for magnetron,Copper; Laminated Steel
+Microwave,Software,Control Firmware,Manages timing; power levels; and safety sensors,C/C++ Microcode
+Refrigerator,Hardware,Compressor,Circulates refrigerant to remove heat,Steel; Copper; Aluminum
+Refrigerator,Hardware,Evaporator Coils,Absorbs heat from the fridge interior,Aluminum; Copper
+Refrigerator,Hardware,Insulation,Prevents thermal transfer from the outside,Polyurethane; Cyclopentane gas
+Refrigerator,Software,IoT/Smart OS,Manages temp logs; inventory; and Wi-Fi,Android-based OS; Embedded C
+Washing Machine,Hardware,BLDC Motor,Rotates the drum at varying speeds,Neodymium magnets; Copper; Steel
+Washing Machine,Hardware,Drum,Holds clothes and water during the cycle,Stainless Steel; Reinforced Polypropylene
+Washing Machine,Hardware,Inverter Board,Controls motor speed for energy efficiency,Silicon; Copper; PCB Fiberglass
+Washing Machine,Software,Fuzzy Logic,Calculates water and detergent based on load,C/C++ Algorithms
+Air Conditioner,Hardware,Condenser Coil,Releases absorbed heat to the outside,Aluminum; Copper
+Air Conditioner,Hardware,Expansion Valve,Regulates refrigerant flow,Brass; Stainless Steel
+Air Conditioner,Hardware,Air Filter,Traps dust and allergens from intake air,High-density Polyethylene; Carbon
+Air Conditioner,Software,PID Controller,Maintains precise temp by modulating compressor,Low-level C firmware
+Coffee Maker,Hardware,Heating Element,Heats water to brewing temperature,Nichrome; Aluminum
+Coffee Maker,Hardware,Water Pump,Forces water through grounds at specific pressure,BPA-free Plastic; Stainless Steel; Silicon
+Coffee Maker,Hardware,Solenoid Valve,Controls the flow of water and steam,Brass; Copper; Rubber
+Coffee Maker,Software,Brew Profile Logic,Manages pre-infusion and temp curves,Embedded C code

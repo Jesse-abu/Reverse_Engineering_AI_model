@@ -1,0 +1,16 @@
+Category,Sub-Category,Item,Basic Function,Possible Substitutes
+garage_and_tools,hand_tools,Hammer,Drives nails, fits parts, and breaks things apart,Mallet; Rock/Heavy object; Nail gun; Boot heel (for small jobs)
+garage_and_tools,hand_tools,Screwdriver Set,Turns screws to fasten or unfasten items,Flat edge knife (carefully); Credit card corner (for large flatheads); Power drill with appropriate bit
+garage_and_tools,hand_tools,Wrench,Grips and turns nuts and bolts for fastening or loosening,Pliers; Socket wrench; Crescent wrench (adjustable); Pipe wrench
+garage_and_tools,hand_tools,Pliers,Grips, bends, cuts, or pulls wires and small objects,Wrench (for gripping); Wire cutters; Vice grips; Bare hands/fingers
+garage_and_tools,hand_tools,Socket Set,Provides versatile gripping of various sized nuts and bolts with a ratcheting mechanism,Wrench set; Pliers (less effective); Crescent wrench
+garage_and_tools,power_tools,Cordless Drill,Drills holes and drives screws/fasteners using battery power,Corded drill; Manual hand drill; Screwdriver set; Hammer (for creating holes in soft materials)
+garage_and_tools,power_tools,Circular Saw,Makes long, straight cuts in wood and other sheet materials,Hand saw; Jigsaw; Table saw; Track saw; Oscillating tool
+garage_and_tools,power_tools,Angle Grinder,Cuts, grinds, or polishes metal, stone, or tile,Hacksaw; File/Rasp; Bench grinder (for small jobs); Reciprocating saw
+garage_and_tools,power_tools,Orbital Sander,Smooths surfaces using a random orbital motion to prevent swirl marks,Belt sander (more aggressive); Sanding block/Hand sanding; Detail sander
+garage_and_tools,power_tools,Impact Driver,Drives screws and fasteners with high torque using a rotational force and concussive blows,Cordless drill; Wrench (for lag screws); Screwdriver
+garage_and_tools,maintenance,Floor Jack,Lifts a vehicle or heavy object off the ground for access,Scissor jack (standard car jack); Bottle jack; Hi-lift jack (for trucks); Block and tackle system
+garage_and_tools,maintenance,Jack Stands,Securely holds a vehicle or object once lifted by a jack,Ramps; Blocks of wood (less safe); Car lift/Hoist; Concrete blocks (highly unsafe)
+garage_and_tools,maintenance,Air Compressor,Provides compressed air for pneumatic tools, inflating tires, and cleaning,Manual tire pump; CO2 cartridge inflator; Dusting can (for cleaning); Hand tools (substituting pneumatic)
+garage_and_tools,maintenance,Oil Drain Pan,Catches waste fluids (oil, coolant) during vehicle maintenance,Large plastic bucket; Cut-open milk jug; Aluminum baking tray
+garage_and_tools,maintenance,Jumper Cables,Connects a dead vehicle battery to a live one to jump-start the engine,Battery jump starter pack; Tow truck service; Solar charger (takes a long time); Push start (manual transmission only)

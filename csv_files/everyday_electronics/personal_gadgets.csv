@@ -1,0 +1,59 @@
+Gadget,Type,Component,Detailed_Function,Primary_Materials_Used, P2, P3, P4, P6
+Laptop,Hardware,CPU (Central Processing Unit),Performs the primary computation and logic operations,Silicon; Copper; Ceramic
+Laptop,Hardware,GPU (Graphics Processing Unit),Renders images; videos; and 3D content for the display,Silicon; Copper; Aluminum
+Laptop,Hardware,RAM (Random Access Memory),Volatile memory used for active programs and data storage,Silicon; Gold; Fiberglass (PCB base)
+Laptop,Hardware,SSD (Solid State Drive),Persistent high-speed data storage for the OS and user files,Silicon (NAND flash); Aluminum/Plastic (casing)
+Laptop,Hardware,Motherboard,Connects all internal components and distributes power/data,Copper; Gold/Silver (traces); Fiberglass (FR4 substrate)
+Laptop,Hardware,Display (LCD/OLED),The screen; generates visuals for user interface,Aluminosilicate glass; Indium Tin Oxide; LEDs/OLEDs
+Laptop,Hardware,Keyboard/Trackpad,User input devices for typing and navigation,Plastic (ABS/PC); Rubber (domes); Metal (chassis)
+Laptop,Hardware,Battery (Li-ion),Rechargeable power source,Lithium; Cobalt; Nickel; Graphite; Aluminum
+Laptop,Hardware,Chassis/Case,External physical protection and structure,Aluminum alloys; Magnesium alloys; Polycarbonate plastics
+Laptop,Hardware,Cooling System (Fans/Heatsinks),Dissipates heat from CPU/GPU to maintain performance,Copper (heat pipes); Aluminum (fins); Plastic (fan blades)
+Laptop,Hardware,Wi-Fi/Bluetooth Card,Enables wireless network and peripheral connectivity,Silicon; Gold; Plastic
+Laptop,Software,Operating System (e.g., Windows/macOS/Linux),Manages all hardware/software resources; provides the UI,Binary code (C/C++; Python; Shell scripts)
+Laptop,Software,Device Drivers,Translates OS commands into specific hardware actions,Low-level C/Assembly microcode
+Laptop,Software,Application Software (e.g., Office/Browser),User-facing programs for specific tasks,Various programming languages (Java; Python; C#; JavaScript)
+Laptop,Software,BIOS/UEFI Firmware,Initializes hardware during boot-up; loads the OS,C/C++ microcode stored on flash memory
+Smartwatch,Hardware,SoC (System on Chip),The main processor for the entire watch functions,Silicon; Gallium; Germanium
+Smartwatch,Hardware,Display (OLED/AMOLED),Small, energy-efficient screen for time/notifications,Aluminosilicate glass; ITO; Europium/Terbium
+Smartwatch,Hardware,Sensors (HRM, GPS, Accelerometer),Tracks health metrics, location, and motion,Silicon; Copper; Gold; Piezoceramic materials
+Smartwatch,Hardware,Battery (Li-Po),Compact power source,Lithium; Cobalt; Graphite; Aluminum foil
+Smartwatch,Hardware,Chassis/Body,Protects internal components; worn on wrist,Stainless steel; Aluminum; Ceramics; Reinforced plastics
+Smartwatch,Hardware,Haptic Motor,Provides vibration alerts/feedback,Neodymium magnets; Tungsten weight; Copper coil
+Smartwatch,Hardware,Microphone/Speaker,Enables voice commands and audio alerts,Neodymium magnets; Copper; Plastic
+Smartwatch,Software,Operating System (e.g., watchOS/Wear OS),Manages wearable functions and app interactions,Binary code (Swift; C++; Kotlin)
+Smartwatch,Software,Health/Fitness Tracking App,Processes sensor data into usable health information,Swift/Kotlin software code
+Smartwatch,Software,Connectivity Modules,Manages Bluetooth/Wi-Fi/Cellular connections,Software protocols (Bluetooth stack)
+Wireless Earbuds,Hardware,Bluetooth SoC,Manages wireless connection; audio processing; power management,Silicon; Gold; Plastic
+Wireless Earbuds,Hardware,Driver (Speaker),Converts electrical signals into sound waves,Neodymium magnets; Copper coil; Mylar/Cellulose diaphragm
+Wireless Earbuds,Hardware,Battery (Li-ion),Small power source in each bud and the charging case,Lithium; Cobalt; Graphite
+Wireless Earbuds,Hardware,Microphone (MEMS),Captures voice for calls/ANC (Active Noise Cancellation),Silicon; Nickel; Gold
+Wireless Earbuds,Hardware,ANC Chip/Software,Detects ambient noise and generates inverse sound waves to cancel it,Silicon IC; C++ software algorithms
+Wireless Earbuds,Hardware,Charging Case,Stores, protects, and recharges the earbuds,Plastic (PC/ABS); Lithium battery; Copper (charging contacts)
+Wireless Earbuds,Hardware,Housing/Eartips,External shell and fit interface,Plastic (ABS); Silicone rubber (eartips)
+Wireless Earbuds,Software,Bluetooth Stack/Firmware,Enables device pairing and robust audio transmission,C/C++ low-level code
+Wireless Earbuds,Software,Audio Codec (e.g., AAC/aptX/LDAC),Compresses/decompresses audio for wireless transmission,Software algorithms (C++)
+Wireless Earbuds,Software,Voice Assistant Integration,Software integration with phone's AI assistant (Siri/Assistant),Software APIs
+Tablet,Hardware,APU (Application Processor Unit),The main processing chip (CPU/GPU integrated),Silicon; Aluminum; Copper
+Tablet,Hardware,Display (LCD/OLED) & Digitizer,Large screen for visuals and multi-touch input,Aluminosilicate glass; Indium Tin Oxide; Silicon
+Tablet,Hardware,Battery (Li-Po),High-capacity internal power source,Lithium; Cobalt; Graphite; Aluminum
+Tablet,Hardware,NAND Flash Storage,Internal storage for OS and applications,Silicon; Gold; Copper
+Tablet,Hardware,Motherboard,The main circuit board connecting all components,Copper; Gold; Fiberglass; Epoxy resins
+Tablet,Hardware,USB-C Port,Charging and data transfer interface,Copper; Stainless steel; Gold
+Tablet,Hardware,Cameras (Front/Rear),Captures photos and video calls,Glass lenses; Silicon sensor; Aluminum frame
+Tablet,Hardware,Sensors (Gyroscope, Ambient Light),Enables auto-rotate and brightness adjustment,Silicon; Gold
+Tablet,Software,Operating System (e.g., iPadOS/Android),Platform for running applications and managing hardware,Binary code (Swift; C++; Java)
+Tablet,Software,Security Software/IC,Protects data through encryption and secure boot,Firmware on a dedicated silicon chip
+Tablet,Software,Touchscreen Controller Firmware,Manages input from the digitizer for accurate response,C microcode
+Tablet,Software,Multimedia Frameworks,Handles video playback; streaming; and audio processing,C++/Java software libraries
+Smartphone,Hardware,SoC (System on Chip),Combined CPU/GPU/NPU; the device brain for apps and AI,Silicon (11N purity); Boron; Phosphorus
+Smartphone,Hardware,OLED Display,Generates visuals and acts as the primary touch interface,Indium Tin Oxide (ITO); Europium; Terbium; Aluminosilicate glass
+Smartphone,Hardware,Modem (5G/Satellite),Manages high-speed cellular; Wi-Fi; and satellite signals,Silicon; Gallium Arsenide (GaAs)
+Smartphone,Hardware,Battery (Li-ion),High-density rechargeable power source,Lithium; Cobalt; Nickel; Graphite; Aluminum/Copper foil
+Smartphone,Hardware,Motherboard (PCB),Central hub connecting all electronic components,Copper; Gold; Silver; Tin; Fiberglass
+Smartphone,Hardware,Camera Module,Captures images using optical sensors and AI enhancement,Sapphire glass; Lanthanum; Silicon; Gold wires
+Smartphone,Hardware,Haptic Engine,Provides precise vibration and tactile feedback,Neodymium magnets; Tungsten; Iron; Boron
+Smartphone,Hardware,Chassis/Frame,External structural housing and protection,Grade 5 Titanium; Aluminum/Magnesium alloys; Polycarbonate
+Smartphone,Software,Kernel (OS),Manages low-level hardware drivers and resources,Binary code (C/C++ languages)
+Smartphone,Software,Middleware,Libraries enabling security and messaging services,Software code (Java; Kotlin; Swift)
+Smartphone,Software,UI Framework,Renders the graphics and layouts seen on screen,Software code (XML; Jetpack Compose; SwiftUI)

@@ -1,0 +1,34 @@
+Gadget,Type,Component,Detailed Function,Primary Materials Used
+Smart TV,Hardware,Main SoC (CPU/GPU),The primary processor that runs the operating system, apps, and video processing,Silicon; Copper; Ceramic; Aluminum
+Smart TV,Hardware,Display Panel (QLED/OLED/LED),The screen that generates the image; uses various backlighting/pixel tech,Glass (Silica/Alumina); Indium Tin Oxide; Quantum Dots; Rare earths
+Smart TV,Hardware,Wi-Fi/Ethernet Module,Enables wired and wireless network connectivity for streaming content,Silicon; Plastic; Copper
+Smart TV,Hardware,HDMI/USB Ports,Physical input interfaces for external devices like consoles/players,Gold-plated copper; Brass; Plastic housing
+Smart TV,Hardware,Power Supply Board (PSU),Converts wall AC power into necessary DC voltages for internal boards,Aluminum heat sinks; Copper transformers; Silicon rectifiers
+Smart TV,Hardware,T-CON Board (Timing Controller),Processes video signals from the SoC to display on the panel accurately,Silicon ICs; Copper traces; Fiberglass PCB
+Smart TV,Software,Smart TV OS (e.g., Android TV/webOS),Manages apps (Netflix/Hulu), user interface, and overall system functionality,Java; C++; Kotlin code
+Smart TV,Software,Image Processor Firmware,Specialized software that optimizes contrast, color, and motion smoothing of video signals,C/C++ Microcode
+Gaming Console,Hardware,Custom APU (CPU+GPU),High-performance integrated processor designed for intense gaming loads,Silicon; Large copper vapor chamber; Thermal paste (zinc oxide)
+Gaming Console,Hardware,GDDR RAM (e.g., GDDR6),Ultra-fast shared memory for CPU and GPU,Silicon; Gold; Fiberglass
+Gaming Console,Hardware,Ultra-High Speed SSD,Proprietary NVMe storage solution for fast game loading and asset streaming,Silicon NAND flash; Aluminum/Plastic casing
+Gaming Console,Hardware,Cooling System (Fan/Heat Sink),Active cooling using large fans and complex heat pipe systems,Aluminum fins; Copper heat pipes; Plastic fan blades
+Gaming Console,Hardware,Wireless Controller Interface,Receives input from gamepads via Bluetooth or proprietary RF,Silicon; Copper antenna; Plastic casing
+Gaming Console,Software,System Software OS,Manages user accounts, game library, updates, and console security,C++; Assembly; Proprietary binary code
+Gaming Console,Software,Game Engine API (DirectX/Vulkan),Low-level software interface for developers to maximize hardware performance,C++ libraries
+Bluetooth Speaker,Hardware,Audio Driver(s) (Woofer/Tweeter),Converts electrical audio signals into sound waves,Neodymium magnets; Aluminum/Steel frame; Mylar/Paper diaphragm
+Bluetooth Speaker,Hardware,Bluetooth SoC,Manages the wireless audio connection, pairing, and battery management,Silicon; Gold; Plastic
+Bluetooth Speaker,Hardware,Rechargeable Battery,Internal power source for portable use,Lithium-ion/Li-Po (Cobalt/Graphite/Nickel)
+Bluetooth Speaker,Hardware,Amplifier IC,Boosts the low-power audio signal from the SoC to drive the speaker drivers,Silicon (Class D amplifier); Aluminum heat sink
+Bluetooth Speaker,Hardware,Passive Radiator,A diaphragm without a magnet that enhances low-frequency (bass) response,Rubber/Silicone surround; Plastic/Metal diaphragm
+Bluetooth Speaker,Software,DSP (Digital Signal Processing),Software algorithms that tune sound quality and bass response in real-time,C/C++ DSP algorithms
+Streaming Stick,Hardware,Main SoC (CPU/GPU/RAM),Compact processor running the streaming OS and decoding 4K/HDR video,Silicon; Copper foil (heat dissipation); Plastic casing
+Streaming Stick,Hardware,HDMI Connector,The physical plug connecting directly to the TV port,Gold-plated Copper; Brass; Plastic
+Streaming Stick,Hardware,Wi-Fi Antenna/Module,Integrated component for high-speed wireless internet access,Copper traces; Plastic housing
+Streaming Stick,Hardware,IR/RF Receiver,Receives signals from the remote control,Silicon photodiode/receiver; Plastic
+Streaming Stick,Software,Streaming OS (e.g., Roku OS/Fire OS),The operating system providing menus and access to streaming apps,C; Java; Python code
+Streaming Stick,Software,Video Codec Decoder,Specialized software/hardware to decompress H.264/HEVC/AV1 video formats,Microcode/Hardware decoder
+Soundbar,Hardware,Multiple Audio Drivers/Tweeters,Array of speakers positioned for immersive sound,Neodymium magnets; Aluminum frames; Various diaphragm materials
+Soundbar,Hardware,Power Amplifier Board,Provides significant power to multiple drivers for volume and clarity,Silicon MOSFETs; Large aluminum heat sinks; Copper wiring
+Soundbar,Hardware,Subwoofer Wireless Transmitter,Dedicated module for sending low-frequency audio signal to separate bass unit,Silicon transmitter IC; Copper antenna
+Soundbar,Hardware,Digital Audio Inputs (Optical/HDMI eARC),Physical ports for high-fidelity audio input from the TV,Plastic; Copper; Fiber optic cable (TOSLINK)
+Soundbar,Software,Surround Sound Processing,Algorithms that simulate immersive surround sound (e.g., Dolby Atmos processing),DSP algorithms; C++ libraries
+Soundbar,Software,EQ (Equalizer) Presets,Software settings allowing users to select sound profiles (Movie/Music/Night Mode),Firmware settings/GUI code

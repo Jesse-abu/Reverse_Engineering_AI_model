@@ -1,0 +1,29 @@
+Type,Component,Detailed Function,Primary Materials Used
+Hardware,SoC (System on Chip),Integrates CPU/GPU/NPU; the device's brain,Silicon (99.9% purity); Boron; Phosphorus
+Hardware,NPU (Neural Processing Unit),Accelerates AI tasks like real-time translation and photography,Silicon; Gallium; Germanium
+Hardware,ISP (Image Signal Processor),Processes raw camera data into high-quality photos/videos,Silicon; Gold (bonding wires)
+Hardware,Modem (Baseband Processor),Manages 5G/LTE and satellite connectivity,Silicon; Gallium Arsenide (GaAs)
+Hardware,RAM (LPDDR5X),Provides temporary data storage for active apps,Silicon; Gold; Silver
+Hardware,NAND Flash Storage,Permanent storage for OS and user files,Silicon; Floating-gate MOS memory
+Hardware,OLED Display Panel,Generates visuals with self-emissive pixels,Indium Tin Oxide (ITO); Europium/Terbium (phosphors)
+Hardware,Touch Digitizer,Converts finger gestures into electrical signals,Indium Tin Oxide (ITO); Aluminosilicate glass
+Hardware,Battery (Li-ion/Silicon-Carbon),Stores power; new 2025 models use silicon-carbon for higher density,Lithium; Cobalt; Manganese; Graphite; Silicon
+Hardware,Motherboard (PCB),The central hub connecting all internal electronics,Copper; Gold/Silver (plating); Fiberglass; Epoxy resins
+Hardware,Chassis / Frame,Structural housing and external protection,Aluminium/Magnesium alloys; Grade 5 Titanium
+Hardware,Vapor Chamber,Passive liquid-to-gas cooling system for SoC,Copper; Pure water (liquid)
+Hardware,Camera Module (Lenses),Focuses light onto the image sensor,Lanthanum-doped glass; Sapphire (covers); Plastics
+Hardware,Haptic Engine,Provides tactile feedback via precise vibrations,Neodymium magnets; Tungsten (weight)
+Hardware,UWB Chip,Enables high-precision spatial awareness and digital keys,Silicon; Gold
+Hardware,Fingerprint Sensor (Ultrasonic),Maps fingerprints using sound waves to unlock device,Silicon; Piezoceramic materials
+Hardware,GNSS (GPS/Galileo),Receives satellite signals for precise global positioning,Silicon; Copper
+Hardware,RF Transceiver / Filters,Handles radio frequency switching and signal filtering,Gallium Arsenide; Barium Titanate (ceramics)
+Hardware,USB-C / Charging Port,Physical interface for power and data transfer,Copper; Stainless steel; Gold (plating)
+Hardware,Earpiece / Speaker,Converts electrical signals into audio,Neodymium magnets; Copper; Zinc alloys
+Software,Linux Kernel (Android) / XNU (iOS),Manages low-level hardware drivers and system resources,Binary code (C/C++)
+Software,HAL (Hardware Abstraction Layer),Standard interface for hardware to communicate with the OS,C++ / Java microcode
+Software,Middleware (Core Services),Provides libraries for security; messaging; and web browsing,Software code (Java; Kotlin; Swift)
+Software,UI Framework (Jetpack/SwiftUI),Renders the visual layout and animations seen by users,Software code (XML; Kotlin; Swift)
+Software,Application Layer,User-facing apps like Camera; Messages; and Social Media,Java; Kotlin; Swift; Objective-C
+Software,AEE (App Execution Env.),Allows developers to run 3rd party apps via standard APIs,Binary execution protocols
+Software,NPU Firmware,Specific code that optimizes AI model execution on the chip,Low-level C/C++
+Software,Device Drivers,Translates OS commands into specific hardware actions,Microcode
